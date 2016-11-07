@@ -1,0 +1,24 @@
+{
+  "name": "alexa",
+  "version": "0.0.0",
+  "description": "Alexa Skills Sandbox",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/averyhadzi/alexa.git"
+  },
+  "keywords": [
+    "Avery Wolkin Hadzi",
+    "Alexa"
+  ],
+  "author": "Avery Wolkin Hadzi",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/averyhadzi/alexa/issues"
+  },
+  "homepage": "https://github.com/averyhadzi/alexa",
+  "devDependencies": {},
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
